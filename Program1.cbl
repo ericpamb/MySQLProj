@@ -3,6 +3,7 @@
       *> THIS IS ONLY A (GITHUB) TEST
       *> THIS IS A COLLAB TEST
       *>Test Pull Request from Visual Studio
+      *>Test Batch Run
 
            EXEC SQL INCLUDE SQLCA  END-EXEC. 
        
