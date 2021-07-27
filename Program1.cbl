@@ -2,6 +2,7 @@
        WORKING-STORAGE SECTION. 
       *> THIS IS ONLY A (GITHUB) TEST
       *> THIS IS A COLLAB TEST
+      *>Test Pull Request from Visual Studio
 
            EXEC SQL INCLUDE SQLCA  END-EXEC. 
        
