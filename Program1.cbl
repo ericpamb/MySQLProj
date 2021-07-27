@@ -1,7 +1,8 @@
       $SET XDB sourceformat(variable) 
        WORKING-STORAGE SECTION. 
-      *> THIS IS ONLY A (GITHUB) 
-      *> TEST MERGECONFLICT TEST 
+      *> THIS IS ONLY A (GITHUB) TEST
+      *> THIS IS A COLLAB TEST
+
            EXEC SQL INCLUDE SQLCA  END-EXEC. 
        
       *> after an sql error this has the full message text
