@@ -4,6 +4,7 @@
       *> THIS IS A COLLAB TEST
       *>Test Pull Request from Visual Studio
       *>Test Batch Run
+      *>Test Jenkins
 
            EXEC SQL INCLUDE SQLCA  END-EXEC. 
        
