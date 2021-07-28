@@ -7,6 +7,7 @@
       *>Test Jenkins
       *>Test Collab 07/28/2021 
       *>Test Jenkins Collab 07/28/2021
+      *>Test Abel Collab 07/28/2021
 
            EXEC SQL INCLUDE SQLCA  END-EXEC. 
        
