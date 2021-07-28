@@ -10,6 +10,7 @@
       *>Test Abel Collab 07/28/2021
       *>Test Branch Collab 07/28/2021
       *>Test Pull from Local
+      *>testbranch5
       
            EXEC SQL INCLUDE SQLCA  END-EXEC. 
        
