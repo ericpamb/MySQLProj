@@ -9,7 +9,8 @@
       *>Test Jenkins Collab 07/28/2021
       *>Test Abel Collab 07/28/2021
       *>Test Branch Collab 07/28/2021
-
+      *>Test Pull from Local
+      
            EXEC SQL INCLUDE SQLCA  END-EXEC. 
        
       *> after an sql error this has the full message text
