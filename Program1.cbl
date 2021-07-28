@@ -5,6 +5,7 @@
       *>Test Pull Request from Visual Studio
       *>Test Batch Run
       *>Test Jenkins
+      *>Test Collab 07/28/2021 
 
            EXEC SQL INCLUDE SQLCA  END-EXEC. 
        
